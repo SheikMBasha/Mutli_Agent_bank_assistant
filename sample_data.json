@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "account_number": "123456789",
+      "account_balance": 2340.75,
+      "loan_balance": 12500,
+      "loan_id": "LN1001",
+      "loan_status": "Approved"
+    },
+    {
+      "account_number": "987654321",
+      "account_balance": 4750.25,
+      "loan_balance": 8200,
+      "loan_id": "LN1002",
+      "loan_status": "In Review"
+    }
+  ]
+}
